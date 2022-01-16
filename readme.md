@@ -3,7 +3,7 @@
 Start 
 ```bash
 cd /bin/
-php php start_tournament.php [quantity knight (integer and odd number)]
+php start_tournament.php [quantity knight (integer and odd number)]
 ```
 
 Example result
